@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Herr+Von+Muellerhoff&family=Italianno&display=swap')
+
+* {
+    font-family: Italianno;
+}
+
 :root {
     --color-bg: #000000;
     --color-fg: #EADBB2;
