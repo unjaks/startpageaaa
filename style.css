@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Herr+Von+Muellerhoff&family=Italianno&display=swap')
 
-* {
-    font-family: "Herr Von Muellerhoff", cursive;
-}
-
 :root {
     --color-bg: #000000;
     --color-fg: #EADBB2;
@@ -15,7 +11,7 @@
 html, body {
   background: var(--color-bg);
   color: var(--color-fg);
-  font-family: "Fira Code";
+  font-family: "Herr Von Muellerhoff", cursive;
   height: 100%;
   width: 100%;
   margin: 0;
